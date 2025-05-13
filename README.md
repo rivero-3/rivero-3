@@ -15,20 +15,21 @@
 
 ## 📊 GitHub Stats:
 
-# 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=rivero-3&theme=github_dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivero-3&langs_count=5&hide=css,html&theme=github_dark&layout=donut)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rivero-3/rivero-3/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rivero-3/rivero-3/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rivero-3/rivero-3/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### -->
 
 ###
