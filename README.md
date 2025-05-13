@@ -15,12 +15,11 @@
 
 ## 📊 GitHub Stats:
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivero-3&show_icons=true&theme=github_dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rivero-3&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=rivero-3&theme=github_dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![](https://github-profile-trophy.vercel.app/?username=rivero-3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
