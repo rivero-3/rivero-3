@@ -6,8 +6,9 @@
 - 🎓 University of North Sumatra
 
 ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rivero3_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-rivero-hutagaol-4498b5341) 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](rivero3_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](marco-rivero-hutagaol-4498b5341/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 💻 Tech:
 
@@ -16,6 +17,7 @@
 ## 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=rivero-3&theme=github_dark&hide_border=false)<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivero-3&langs_count=5&hide=css,html&theme=github_dark&layout=donut)
 
 
