@@ -18,7 +18,7 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=marcohutagaol&theme=github_dark&hide_border=false)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcohutagaol&langs_count=5&hide=css,html&theme=github_dark&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcohutagaol&langs_count=5&hide=css,html,dart&theme=github_dark&layout=donut)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
